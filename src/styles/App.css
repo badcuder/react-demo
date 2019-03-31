@@ -2,3 +2,10 @@ h1 {
     color: #27aedb;
     text-align: center;
 }
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    object-fit: cover;
+}
